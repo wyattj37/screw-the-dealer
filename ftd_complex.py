@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  3 22:07:01 2024
-
-@author: wyattjohnston
-"""
 #cards represents how many of each card is left in the deck
 #edit accordingly
 
